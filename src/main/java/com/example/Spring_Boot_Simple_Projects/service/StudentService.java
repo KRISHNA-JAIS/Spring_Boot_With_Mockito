@@ -13,9 +13,6 @@ import java.util.Optional;
 public class StudentService {
 
     /**
-     *   Hi Krishna  .
-     *   Checking Rebase  .
-     *   Added comment  .
      *   StudentRepository  .
      */
     @Autowired
