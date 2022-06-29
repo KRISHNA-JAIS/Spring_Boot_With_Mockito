@@ -15,8 +15,6 @@ public class StudentService {
     /**
      *   Hi Krishna  .
      *   Checking Rebase  .
-     *   Added comment in main  .
-     *   Added second in main  .
      *   StudentRepository  .
      */
     @Autowired
